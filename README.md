@@ -111,3 +111,6 @@ Menu interaktif berbasis konsol:
 - Data disimpan dalam array statis (dataPeserta)
 
 - Pengurutan otomatis setelah penambahan dilakukan (berdasarkan ID)
+
+# Batasan Program
+- program menggunakan array statis dengan kapasitas 100 data
