@@ -79,7 +79,7 @@ Mengurutkan data peserta berdasarkan ID menggunakan insertion sort.
 4. Menu Utama (main function)
 Menu interaktif berbasis konsol:
 
--Tambah Peserta
+- Tambah Peserta
 
 - Tampilkan Peserta
 
